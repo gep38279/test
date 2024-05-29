@@ -13,7 +13,7 @@ print(keypoints.data)
 
 #print(len(keypoints.data))
 #print(keypoints.data[0][0][0])
-#
+
 skelton = [[5,6],[6,8],[8,10],[5,7],[7,9],[6,12],[5,11],[11,12],[12,14],[14,16],[11,13],[13,15]]
 
 for i in range(5,17):
